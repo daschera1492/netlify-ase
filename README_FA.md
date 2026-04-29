@@ -372,6 +372,8 @@ curl -I "https://your-domain.com:443"
 
 ## 💰 حمایت مالی
 
+https://reymit.ir/amirshaker
+
 Solana:
 
 ```txt
